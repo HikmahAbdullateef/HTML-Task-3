@@ -1,0 +1,31 @@
+body {
+    background-color: gold;
+}
+h1, h2 {
+    color: rgba(4, 0, 255, 0.719);
+}
+p {
+    color: brown;
+}
+body {
+     border-style: double;
+     border-width: 20px;
+     border-radius: 10px;
+     
+}
+.contact-form {
+    border-radius: 20px;
+}
+#Message {
+     padding: 50px 50px 50px 50px;
+}
+#Email {
+    padding-right: 100px;
+}
+#Name {
+    padding-right: 100px;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
